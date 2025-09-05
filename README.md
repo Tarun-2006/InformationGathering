@@ -102,9 +102,6 @@ Open terminal/browser and try execute necessary commands/use url to perform info
 <img width="939" height="137" alt="Screenshot 2025-09-01 064636" src="https://github.com/user-attachments/assets/0dfb03f8-27c6-484f-bb39-3aa4e93c2038" />
 
 
-### httprint :
-<img width="630" height="208" alt="479598583-25d1d98e-6ccd-4459-957f-c91ac4edd97e" src="https://github.com/user-attachments/assets/b671f174-01c3-4154-8801-e1b7f21dae74" />
-
 ### TCP traceroute :
 <img width="753" height="81" alt="Screenshot 2025-09-01 064905" src="https://github.com/user-attachments/assets/efdca8b1-12e2-467c-854b-05a9a25cd307" />
 
